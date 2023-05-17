@@ -1,0 +1,1 @@
+from photos.photos_data import Photo
